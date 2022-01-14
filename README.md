@@ -1,1 +1,1 @@
-# webpack5-default-setting-project
+# webpack5-default-setting
